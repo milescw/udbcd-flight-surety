@@ -45,7 +45,7 @@ cd udbcd-flight-surety
 npm install
 ```
 #### Open a  terminal window and Launch Ganache:
-If you are using ganache-cli use this command to add 40 funded accounts:
+If you are using ganache-cli use this command to add 50 funded accounts:
 ```
 ganache-cli -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat" -a 50
 
